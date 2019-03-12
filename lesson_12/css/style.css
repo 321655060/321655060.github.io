@@ -1,0 +1,39 @@
+.container {
+    padding: 35px 0;
+}
+h1 {
+    font-size: 24px;
+    margin: 85px 0;
+}
+.video {
+    margin-bottom: 30px;
+}
+.form-box {
+    border: 5px solid #2727d9;
+    padding: 0 16px 40px 16px;
+}
+.form-header {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 35px 0;
+}
+form input {
+    margin-bottom: 15px;
+}
+h2 {
+    font-size: 24px;
+    font-weight: 900;
+    margin-bottom: 85px;
+}
+.feature-box {
+   height: 200px;
+}
+.client-header {
+    margin-top: 100px;
+}
+.clients-pictures {
+    margin: 0 5%;
+}
+.picture {
+    margin-bottom: 33px;
+}
