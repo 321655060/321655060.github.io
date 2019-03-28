@@ -1,0 +1,53 @@
+body {
+    background-color: #ebf4f4;
+    font-family: arial;
+    font-weight: bold;
+}
+.form-block {
+    height: 370px;
+    width: 20%;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 100px;
+}
+.form {
+    width: 97%;
+    margin: auto;
+}
+.title {
+    background-color: #01b3b3;
+    width: 57%;
+    height: 25px;
+    padding: 3px;
+}
+.title p {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.main-form p {
+    text-align: left;
+    margin-top: 31px;
+    margin-bottom: 0;
+}
+.main-form span {
+    color: #01b3b3;
+}
+input {
+    height: 30px;
+    width: 100%;
+}
+.button {
+    height: 44px;
+    width: 97%;
+    margin-top: 34px;
+}
+.btn {
+    height: 44px;
+    width: 103%;
+    background-color: #01b4b4;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+}
