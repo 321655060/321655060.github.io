@@ -8,4 +8,5 @@
 [Fonts](321655060.github.io/fonts/ "My ready homework") - Fonts connecting  
 [Lesson 19](321655060.github.io/lesson_19/ "My ready homework") - Верстка первого экрана  
 [Lesson 20](321655060.github.io/lesson_20/ "My ready homework") - Наложение эффектов на картинки и кнопки  
-[Lesson 21](321655060.github.io/lesson_21/ "My ready homework") - Эффекты при наведении и адаптив первого экрана
+[Lesson 21](321655060.github.io/lesson_21/ "My ready homework") - Эффекты при наведении и адаптив первого экрана  
+[Lesson 22](321655060.github.io/lesson_22/ "My ready homework") - Слайдер на сайте
